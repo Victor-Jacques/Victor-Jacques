@@ -1,9 +1,8 @@
 ## Meu Perfil
 
 ### Olá, Seja bem vindo
-Meu nome é Victor Jacques, sou Desenvolvedor Back-end e estudante de Ciência da computação.
-Sempre em constante aprendizado, com foco em Java, mas também com conhecimento em Python e JavaScript.
-Buscando diariamente minha melhor versão.
+Meu nome é Victor Jacques, sou estudante de Ciência da computação e Desenvolvedor Back-end, com foco em Java, mas também com conhecimento em Python e JavaScript.
+Sempre em constante aprendizado e buscando diariamente minha melhor versão.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/Victor-Jacques-/)

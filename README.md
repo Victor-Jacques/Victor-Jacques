@@ -2,7 +2,7 @@
 
 ### Olá, Seja bem vindo
 Meu nome é Victor Jacques, sou Desenvolvedor Back-end e estudante de Ciência da computação.
-Sempre em constante aprendizado, focado na linguagem Java e Python.
+Sempre em constante aprendizado, com foco em Java, mas também com conhecimento em Python e JavaScript.
 Buscando diariamente minha melhor versão.
 
 ## Conecte-se comigo

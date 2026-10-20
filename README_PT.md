@@ -86,7 +86,7 @@ Além do desenvolvimento de software, tenho grande interesse em cibersegurança,
 
 ### Áreas de Estudo
 
-- **Application Security:** desenvolvimento seguro, OWASP Top 10, SAST, DAST e IAST
+- **Application Security:** desenvolvimento seguro, OWASP Top 10, SAST, DAST, IAST and DevSecOps principles.
 - **Blue Team:** monitoramento de eventos, análise de logs, SIEM e resposta a incidentes.
 - **Segurança de Redes:** TCP/IP, DNS, HTTP/HTTPS, TLS, firewalls e análise de tráfego.
 - **Análise de Vulnerabilidades:** identificação, análise e investigação de falhas de segurança.

@@ -86,11 +86,10 @@ Beyond software development, I have a strong interest in cybersecurity, particul
 
 ### Areas of Study
 
-- **Application Security:** Secure coding practices, OWASP Top 10, SAST, and DevSecOps principles.
+- **Application Security:** Secure coding practices, OWASP Top 10, SAST, DAST, IAST and DevSecOps principles.
 - **Blue Team:** Security event monitoring, log analysis, SIEM, and incident response.
 - **Network Security:** TCP/IP, DNS, HTTP/HTTPS, TLS, firewalls, and network traffic analysis.
 - **Vulnerability Assessment:** Identifying, analyzing, and investigating security vulnerabilities.
-- **Security Automation:** Developing scripts and automation tools using Python and PowerShell.
 
 ### Security Tools
 

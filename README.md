@@ -1,7 +1,12 @@
-<h1 align="center">Prazer, eu sou Victor Jacques</h1>
+<p align="right">
+  <a href="./README.md">🇺🇸 English</a> |
+  <a href="./README_PT.md">🇧🇷 Português</a>
+</p>
+
+<h1 align="center">Hi, I'm Victor Jacques!</h1>
 
 <h3 align="center">
-  Desenvolvedor Back-end | Java & Python | Segurança da Informação
+  Backend Developer | Java & Python | Cybersecurity
 </h3>
 
 <p align="center">
@@ -11,58 +16,61 @@
   <a href="https://github.com/Victor-Jacques">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="mailto:victordjacques@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou estudante de **Ciência da Computação na Universidade Veiga de Almeida**, com previsão de formação em 2027, e atualmente atuo como **Estagiário em Análise de Sistemas no BNDES**.
+I'm a **Computer Science undergraduate at Universidade Veiga de Almeida**, expected to graduate in 2027, and currently working as a **Systems Analyst Intern at BNDES (Brazilian Development Bank)**.
 
-Tenho experiência com manutenção de sistemas corporativos, desenvolvimento de soluções e automação de processos, utilizando tecnologias como **Java, JavaScript, Python e PowerShell**.
+I have experience maintaining enterprise systems, developing technical solutions, and automating business processes using technologies such as **Java, JavaScript, Python, and PowerShell**.
 
-Também atuo com a **Power Platform**, desenvolvendo automações e participando de atividades de governança, incluindo gestão de ambientes, controle de soluções, versionamento e segurança de conectores.
+I also work with **Microsoft Power Platform**, developing automations and contributing to platform governance activities, including environment management, solution lifecycle management, version control, and connector security.
 
-Meu principal interesse está no desenvolvimento back-end e em Segurança da Informação, especialmente nas áreas de **Application Security, desenvolvimento seguro, análise de vulnerabilidades e Blue Team**.
+My main professional interests lie in backend development and cybersecurity, particularly **Application Security, Secure Software Development, Vulnerability Assessment, and Blue Team operations**.
 
-Busco constantemente aprofundar meus conhecimentos por meio de projetos práticos, estudos e experimentação com novas tecnologias.
+I'm constantly expanding my technical knowledge through hands-on projects, continuous learning, and exploring new technologies.
 
-- 🎓 Graduando em Ciência da Computação — UVA
-- 💼 Estagiário em Análise de Sistemas — BNDES
-- 💻 Foco em Java, Spring Boot, Python e desenvolvimento back-end
-- 🔐 Interesse em Cybersecurity, Forense Digital, Pentest, AppSec e Blue Team
-- 🌍 Cidadania brasileira e portuguesa
-- 🗣️ Português nativo | Inglês avançado | Espanhol intermediário
+- 🎓 Computer Science Undergraduate — Universidade Veiga de Almeida (UVA)
+- 💼 Systems Analyst Intern — BNDES (Brazilian Development Bank)
+- 💻 Focused on Java, Spring Boot, Python, and Backend Development
+- 🔐 Interested in Cybersecurity, Digital Forensics, Penetration Testing, AppSec, and Blue Team
+- 🌍 Dual Citizenship: Brazilian & Portuguese (EU Citizen)
+- 🗣️ Native Portuguese | Advanced English | Intermediate Spanish
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies & Tools
 
-### Linguagens de Programação
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts" alt="Linguagens de programação"/>
-</p>
-
-### Back-end e Desenvolvimento Web
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,html,css" alt="Tecnologias de desenvolvimento"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts" alt="Programming Languages"/>
 </p>
 
-### Bancos de Dados
+### Backend & Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Bancos de dados"/>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,html,css" alt="Backend and Web Development"/>
 </p>
 
-### Ferramentas e Ambientes
+### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,ubuntu,windows,vscode,idea,postman,docker" alt="Ferramentas"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases"/>
 </p>
 
-### Automação e Power Platform
+### Development Tools & Environments
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,ubuntu,windows,vscode,idea,postman,docker" alt="Development Tools"/>
+</p>
+
+### Automation & Microsoft Power Platform
 
 <p>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
@@ -72,19 +80,19 @@ Busco constantemente aprofundar meus conhecimentos por meio de projetos prático
 
 ---
 
-## 🔐 Segurança da Informação
+## 🔐 Cybersecurity
 
-Além do desenvolvimento de software, tenho grande interesse em cibersegurança, especialmente na identificação de vulnerabilidades, proteção de aplicações e investigação de incidentes.
+Beyond software development, I have a strong interest in cybersecurity, particularly vulnerability identification, application security, and incident investigation.
 
-### Áreas de estudo
+### Areas of Study
 
-- **Application Security:** desenvolvimento seguro, OWASP Top 10, SAST e práticas de DevSecOps.
-- **Blue Team:** monitoramento de eventos, análise de logs, SIEM e resposta a incidentes.
-- **Segurança de Redes:** TCP/IP, DNS, HTTP/HTTPS, TLS, firewalls e análise de tráfego.
-- **Análise de Vulnerabilidades:** identificação e investigação de falhas de segurança.
-- **Automação de Segurança:** desenvolvimento de scripts e ferramentas utilizando Python e PowerShell.
+- **Application Security:** Secure coding practices, OWASP Top 10, SAST, and DevSecOps principles.
+- **Blue Team:** Security event monitoring, log analysis, SIEM, and incident response.
+- **Network Security:** TCP/IP, DNS, HTTP/HTTPS, TLS, firewalls, and network traffic analysis.
+- **Vulnerability Assessment:** Identifying, analyzing, and investigating security vulnerabilities.
+- **Security Automation:** Developing scripts and automation tools using Python and PowerShell.
 
-### Ferramentas de Segurança
+### Security Tools
 
 <p>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
@@ -94,34 +102,37 @@ Além do desenvolvimento de software, tenho grande interesse em cibersegurança,
 
 ---
 
-## 🚀 Projetos e Estudos
+## 🚀 Projects & Learning
 
-### Desenvolvimento de Software
+### Software Development
 
-Projetos acadêmicos e pessoais envolvendo:
+Academic and personal projects involving:
 
-- Desenvolvimento de aplicações Java com orientação a objetos.
-- Construção e manutenção de APIs REST.
-- Desenvolvimento de aplicações utilizando Python e FastAPI.
-- Modelagem de bancos de dados e consultas SQL.
-- Desenvolvimento de aplicações integradas a sistemas web e mobile.
+- Developing Java applications using Object-Oriented Programming (OOP).
+- Building and maintaining RESTful APIs.
+- Developing applications using Python and FastAPI.
+- Database modeling and SQL queries.
+- Building applications integrated with web and mobile systems.
 
-### Segurança da Informação
+### Cybersecurity
 
-Projetos e laboratórios voltados à aplicação prática de conhecimentos em segurança:
+Hands-on projects and labs focused on applying cybersecurity concepts:
 
-- **Criptografia:** implementação de algoritmos de cifra simétrica utilizando Python.
-- **Segurança de Sistemas:** estudos práticos de vulnerabilidades e técnicas de exploração em ambientes controlados.
+- **Cryptography:** Implementation of symmetric block cipher algorithms using Python.
+- **System Security:** Hands-on vulnerability research and exploitation techniques in controlled lab environments.
 
 ---
 
-## 📫 Contato
+## 📫 Get in Touch
 
-Estou aberto a oportunidades e conexões profissionais nas áreas de **Desenvolvimento Back-end e Segurança da Informação**.
+I'm open to professional opportunities and networking in **Backend Development and Cybersecurity**.
 
 <p>
   <a href="https://www.linkedin.com/in/Victor-Jacques-/">
     <img src="https://img.shields.io/badge/LinkedIn-Victor_Jacques-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:victordjacques@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
